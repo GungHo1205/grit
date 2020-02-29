@@ -8,7 +8,7 @@ Initial Dataset gsheets
 Papers submitted for review
 Camera-ready version of the papers
 
-#Team members
+# Team members
 Jordan Deja
 Unisse Chua
 Tyrone Sta Maria
