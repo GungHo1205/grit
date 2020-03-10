@@ -47,6 +47,9 @@ DevOps is an industry-based practice that is expected from software engineers an
 1. Asian CHI Reviewer Comments
 https://docs.google.com/spreadsheets/d/1iXMihVFCLmoHkwKicCDT4btcOuLZQil9KD8Lf94INoQ/edit#gid=0 
 
+1. DevOpsX Sitemap and Poster contents
+https://docs.google.com/document/d/16S7tG83GM3sgtVBRvKMYN6vfeyTzV3DIoHqNYeovf5I/edit?usp=sharing
+
 1.  Asian CHI 2020 TeX Overleaf Git Repo
 https://github.com/dlsucomet/DevX-Asian-CHI-Paper-Max-4-pages-due-Jan-31 
 
