@@ -1,8 +1,10 @@
 ## Research Questions
 
-Here are the list of questions used in the survey of the research. The questions were classified into four (4) parts namely, **(1)** _Demographic_, **(2)** _Closed-Ended_, **(3)** _Likert-Style_, and **(4)** _Open-Ended_.
+Here are the list of questions used in the survey of the research. The questions were classified into four (4) parts namely, **(1)** _Demographic_, **(2)** _Closed-Ended_, **(3)** _Likert-Style_, and **(4)** _Open-Ended_. Afterwhich, each parts were further classified into subcategories. 
 
 ### Demographic Questions
+
+**Participant Demographics**
 1. How old are you? (Age)
 2. Are you… (Sex)
 3. From what city did you come from?
@@ -10,12 +12,16 @@ Here are the list of questions used in the survey of the research. The questions
 
 ### Closed-Ended Questions
 
+**Participant Demographics**
 1. Did you have any programming training during your Junior High School Years (Grades 7 to 10?) examples: HTML, CSS, JS, Visual Basic, Visual Studio? Etc
-2. Did you have any programming training during your Senior High School Years (Grades 11 to 12?) examples: HTML, CSS, JS, Visual Basic, Visual Studio? Python? etc
+2. Did you have any programming training during your Senior High School Years (Grades 11 to 12?) examples: HTML, CSS, JS, Visual Basic, Visual Studio? Python? etc.
+
+**DevOps Culture**
 3. This is my first time hearing about the term "DevOps."
 
 ### Likert-Style Questions
 
+**DevOps Culture**
 1. I am confident with my understanding of the term "DevOps."
 2.  DevOps is a term that developers should be aware of.
 3. Only professional developers should use DevOps.
@@ -53,6 +59,9 @@ Here are the list of questions used in the survey of the research. The questions
 35. I am able to try and discover other ways to solve problems when working alone.
 36. I am able to try and discover other ways to solve problems when working with a partner.
 37.  I am able to try and discover other ways to solve problems when working with teams.
+
+**DevOps and Sharing**
+
 38. When doing a small programming project, I prefer to work alone.
 39. When programming, I like to work with a partner (pair programming).
 40. When working on a big programming project, I think I need to work with a team.
@@ -68,6 +77,9 @@ Here are the list of questions used in the survey of the research. The questions
 50. I believe DevOps can help TEAMS become EFFECTIVE collaborators
 51. I believe DevOps can help ME become an EFFICIENT collaborator.
 52. I believe DevOps can help TEAMS become EFFICIENT collaborators
+
+**DevOps and Sharing**
+
 53. I am familiar with the different tools for DevOps.
 54. I am familiar with Github.
 55. I tend to use professional communication applications (Slack, Google Hangouts, etc.) to communicate with peers when doing a project.
@@ -77,11 +89,17 @@ Here are the list of questions used in the survey of the research. The questions
 59. I think DevOps tools can help determine and resolve issues faster.
 60. I think DevOps can make the developing process more organized.
 61. I think DevOps tools can help determine specific updates to the project (commit messages).
+
+**Adoption of DevOps**
+
 62. Do you believe that environments with programming/development backgrounds need DevOps?
 63. I cannot improve my programming/development skills further without learning DevOps.
 64. Teachers and Programming Instructors should teach DevOps.
 65. DevOps is important.
 
 ### Open-Ended Questions
+
+**Adoption of DevOps**
+
 1. Why do you or do you not believe that teachers and programming instructors should teach DevOps?
 2. What support do you think do you need in order to learn DevOps?
