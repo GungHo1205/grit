@@ -11,36 +11,36 @@ description: The project bla bla bla
 
 ## Team Members
 
-> Tyrone Justin R. Sta. Maria
+**Tyrone Justin R. Sta. Maria**
 
-     De La Salle University
+<sup>De La Salle University</sup>
 
-     tyrone_stamaria@dlsu.edu.ph
+<sup>[tyrone_stamaria@dlsu.edu.ph](mailto:tyrone_stamaria@dlsu.edu.ph).</sup>
 
-> Gavin Raine Dizon
+**Gavin Raine Dizon**
 
-     De La Salle University
+<sup>De La Salle University</sup>
 
-     gavin_dizon@dlsu.edu.ph
+<sup>[gavin_dizon@dlsu.edu.ph](mailto:gavin_dizon@dlsu.edu.ph)</sup>
 
-> Vince Anthony Esquivel
+**Vince Anthony Esquivel**
 
-     De La Salle University
+<sup>De La Salle University</sup>
 
-     vince_esquivel@dlsu.edu.ph
+<sup>[vince_esquivel@dlsu.edu.ph](mailto:vince_esquivel@dlsu.edu.ph)</sup>
 
-> Jordan Aiko Deja
+**Jordan Aiko Deja**
 
-     De La Salle University
+<sup>De La Salle University</sup>
 
-     University of Primorska
+<sup>University of Primorska</sup>
 
-     jordan.deja@dlsu.edu.ph
+<sup>[jordan.deja@dlsu.edu.ph](mailto:jordan.deja@dlsu.edu.ph)</sup>
 
-> Unisse Chua
+**Unisse Chua**
 
-     De La Salle University
+<sup>De La Salle University</sup>
 
-     unisse.chua@dlsu.edu.ph
+<sup>[unisse.chua@dlsu.edu.ph](mailto:unisse.chua@dlsu.edu.ph)</>
 
 
