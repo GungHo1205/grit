@@ -97,6 +97,8 @@ In this section, we listed essential results from the survey conducted. As such,
 #### Familiarity with DevOps Tools
 ![tools](/assets/img/familiarity-tools.png)
 
+![FigureCombined](/assets/img/Figure_Combined.png)
+
 #### Code Readabilty and Code Review
 ![code](/assets/img/code.png)
 
@@ -104,7 +106,7 @@ In this section, we listed essential results from the survey conducted. As such,
     - Tracing / debugging codes written by another programmer can be easily understood (code_others)
 
 
-<!-- ![FigureCombined](/assets/img/Figure_Combined.png) -->
+
 
 #### Qualitative Results
 
