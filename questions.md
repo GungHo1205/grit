@@ -4,7 +4,11 @@ title: Questions
 description: This page is for the list of questions
 ---
 
-## Research Questions
+## Overview and Objectives
+
+The questionnaire was sent out using an online Google Form. The questions were composed of a mix of Likert-style and open-ended questions that aims to (1) perform a diagnostic, measuring the initial knowledge of novice programmers regarding DevOps, (2) assess their openness towards learning DevOps and (3) record their insights on learning about DevOps. Both quantitative and qualitative answers will be processed later on to derive guidelines and insights that will be used to design an initial software prototype and its features. We wanted to investigate how open novice programmers are to the practice of DevOps and on how much they do and they do not know about it. For this, we looked into their answers in the survey and did a comparative analysis of their responses from the questions. 
+
+## Question Format
 
 Here are the list of questions used in the survey of the research. The questions were classified into four (4) parts namely, **(1)** _Demographic_, **(2)** _Closed-Ended_, **(3)** _Likert-Style_, and **(4)** _Open-Ended_. Afterwhich, each parts were further classified into subcategories. 
 
