@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: The project bla bla bla
+description: 
 ---
 
 ## The Project
