@@ -97,6 +97,8 @@ In this section, we listed essential results from the survey conducted. As such,
 #### Familiarity with DevOps Tools
 ![tools](/assets/img/familiarity-tools.png)
 
+#### Summary: Tools
+
 ![FigureCombined](/assets/img/tools-summary.png)
 
 #### Code Readabilty and Code Review
