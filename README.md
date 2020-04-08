@@ -35,10 +35,10 @@ DevOps is an industry-based practice that is expected from software engineers an
 1. Feb 25 2020		Expected Author Notification from Asian CHI 2020
 1. End of Feb 2020	Improved Questionnaires and Deployment Strategy
 1. Mar 15 2020		Finish 60% of comments from CHI Reviewers
-1. 				Finish Draft of Poster
+1. 				Finish Draft of Poster - not applicable anymore
 1. End of Mar 2020	Improved Initial Mockups
-1. Apr 2020		Conduct specialized interviews/testing of initial mockups with respondents
-1. April 26 2020	Asian CHI Symposium Poster Presentation and Shepherding
+1. Apr 2020		Conduct specialized interviews/testing of initial mockups with respondents - moved
+1. April 26 2020	Asian CHI Symposium Poster Presentation and Shepherding - moved to before April 10 
 1. June 2020		CHI MNL Study Group: CHI Paper Draft Ready 
 1. Sep 2020		Abstract Full paper submission for CHI 2021 OR
 1. Oct 15 2020		Full Paper submission at CSCW 
