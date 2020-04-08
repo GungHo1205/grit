@@ -33,43 +33,41 @@ Here are the list of questions used in the survey of the research. The questions
 **Introduction to DevOps**
 
     1. This is my first time hearing about the term "DevOps."
-    2. I am confident with my understanding of the term "DevOps."
-    3. DevOps is a term that developers should be aware of.
-    4. Only professional developers should use DevOps.
-    5. I believe Novice and beginner programmers will benefit from DevOps.
+   
 
 
 ### Likert-Style Questions 
+
 
 **DevOps Collaboration**
     
     1. I tend to work in collaborative spaces in doing my projects. (A collaborative space is any
     environment that allows me to work with multiple programmers/teammates at the same time).
-    2. It is easier for me to solve problems when working alone.
-    3. It is easier for me to solve problems when working with a partner.
-    4. It is easier for me to solve problems when working with a team.
-    5. My quality of work increases whenever I am alone.
-    6. My quality of work increases whenever I am with a partner.
-    7. My quality of work increases whenever I am in a team.
-    8. I am more productive when I work alone.
-    9. I am more productive when I work with a partner.
-    10. I am more productive when I work with a team.
-    11. I am able to try and discover other ways to solve problems when working alone.
-    12. I am able to try and discover other ways to solve problems when working with a partner.
-    13. I am able to try and discover other ways to solve problems when working with teams.
-    14. When doing a small programming project, I prefer to work alone.
-    15. When programming, I like to work with a partner (pair programming).
-    16. When working on a big programming project, I think I need to work with a team.
-    17. DevOps is a term that involves working in teams.
-    18. DevOps works for programmer pairs as well.
-    19. It is easy for me to understand (trace/debug) codes written by another programmer.
-    20. It is easy for other people to understand my code since I follow programming conventions (use of
+    1. It is easier for me to solve problems when working alone.
+    2. It is easier for me to solve problems when working with a partner.
+    3. It is easier for me to solve problems when working with a team.
+    4. My quality of work increases whenever I am alone.
+    5. My quality of work increases whenever I am with a partner.
+    6. My quality of work increases whenever I am in a team.
+    7. I am more productive when I work alone.
+    8. I am more productive when I work with a partner.
+    9.  I am more productive when I work with a team.
+    10. I am able to try and discover other ways to solve problems when working alone.
+    11. I am able to try and discover other ways to solve problems when working with a partner.
+    12. I am able to try and discover other ways to solve problems when working with teams.
+    13. When doing a small programming project, I prefer to work alone.
+    14. When programming, I like to work with a partner (pair programming).
+    15. When working on a big programming project, I think I need to work with a team.
+    16. DevOps is a term that involves working in teams.
+    17. DevOps works for programmer pairs as well.
+    18. It is easy for me to understand (trace/debug) codes written by another programmer.
+    19. It is easy for other people to understand my code since I follow programming conventions (use of
     camelcase, indentations, etc.)
-    21. I like it when people can see and inspect my code.
-    22. When working on a big programming project, 
-    23. I believe it is helpful to work on my code with small progresses and changes.
-    24. I think DevOps will be helpful in testing/debugging my code
-    25. I think DevOps tools can help determine specific updates to the project (commit messages).
+    1.  I like it when people can see and inspect my code.
+    2.  When working on a big programming project, 
+    3.  I believe it is helpful to work on my code with small progresses and changes.
+    4.  I think DevOps will be helpful in testing/debugging my code
+    5.  I think DevOps tools can help determine specific updates to the project (commit messages).
 
 
 **DevOps Affinity**
@@ -121,9 +119,13 @@ Here are the list of questions used in the survey of the research. The questions
 
 **Others**
 
-    2.  I cannot improve my programming/development skills further without learning DevOps.
-    3.  Teachers and Programming Instructors should teach DevOps.
-    4.  DevOps is important.
+    1. I am confident with my understanding of the term "DevOps."
+    2. DevOps is a term that developers should be aware of.
+    3. Only professional developers should use DevOps.
+    4. I believe Novice and beginner programmers will benefit from DevOps.
+    5.  I cannot improve my programming/development skills further without learning DevOps.
+    6.  Teachers and Programming Instructors should teach DevOps.
+    7.  DevOps is important.
 
 ### Open-Ended Questions
 
