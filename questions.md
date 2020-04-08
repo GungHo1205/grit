@@ -30,9 +30,14 @@ Here are the list of questions used in the survey of the research. The questions
     2. Did you have any programming training during your Senior High School Years (Grades 11 to 12?) 
     examples: HTML, CSS, JS, Visual Basic, Visual Studio? Python? etc.
 
-**DevOps Culture**
+**Introduction to DevOps**
 
-    3. This is my first time hearing about the term "DevOps."
+    1. This is my first time hearing about the term "DevOps."
+    2. I am confident with my understanding of the term "DevOps."
+    3. DevOps is a term that developers should be aware of.
+    4. Only professional developers should use DevOps.
+    5. I believe Novice and beginner programmers will benefit from DevOps.
+
 
 ### Likert-Style Questions 
 
@@ -82,6 +87,7 @@ Here are the list of questions used in the survey of the research. The questions
     11. I enjoy working with teams.
     12. DevOps involves trust and respect.
     13. DevOps affects knowledge sharing among teams.
+    14. Do you believe that environments with programming/development backgrounds need DevOps?
 
  
 
@@ -113,9 +119,8 @@ Here are the list of questions used in the survey of the research. The questions
     13. I believe DevOps can help TEAMS become EFFICIENT collaborators
 
 
-**Adoption of DevOps**
+**Others**
 
-    1.  Do you believe that environments with programming/development backgrounds need DevOps?
     2.  I cannot improve my programming/development skills further without learning DevOps.
     3.  Teachers and Programming Instructors should teach DevOps.
     4.  DevOps is important.
